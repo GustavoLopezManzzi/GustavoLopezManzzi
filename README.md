@@ -4,7 +4,7 @@ Hello! My fullname is Gustavo Mathias López Manzzi!
 I was born in 1998 and right now I'm living in Montevideo, Uruguay.
 
 ## Official Education 👨🏻‍🎓
-Oct. 2021- Present | Full Stack Developtment - CoderHouse, Argentina.
+Oct. 2021- Present | ## Full Stack Developtment - CoderHouse, Argentina.
 
 Sep. 2021 | Computer Technician - "Carlos Slim" Foundation, Mexico.
 

@@ -24,4 +24,4 @@ Nov. 2014 | Prliminary English Test (PET - B1). - Cambridge English Languaje Ass
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLopezManzzi&layout=compact)
 ## Look at me! 👀
-<a href="https://www.linkedin.com/in/gustavo-mathias-lopez-manzzi/" target="_blank"><img src="https://img.shields.io/badge/fcoterroba%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-mathias-lopez-manzzi/" target="_blank"><img src="https://img.shields.io/badge/GustavoLopezManzzi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
